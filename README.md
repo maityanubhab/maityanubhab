@@ -1,5 +1,6 @@
 
 
+
 <h1 align="center">Hi 👋, I'm Anubhab Maity</h1>
 <h3 align="center">With an M.Sc Applied Statistics and B.Sc. Statistics background from India, I am an enthusiastic learner in the field of Data Science and Analytics.</h3>
 
@@ -23,6 +24,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maityanubhab&show_icons=true&locale=en&layout=compact" alt="maityanubhab" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maityanubhab&show_icons=true&locale=en" alt="maityanubhab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maityanubhab&" alt="maityanubhab" /></p>
